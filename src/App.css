@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+svg {
+  background: #eee;
+  overflow: visible;
+}
+
+.App {
+  padding: 30px;
+}
+.btns {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 60px;
+}
+.btns button {
+  width: 100px;
+}
+.font {
+  font-weight: 400;
+  font-size: 16px;
+}
